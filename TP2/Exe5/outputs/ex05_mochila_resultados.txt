@@ -1,0 +1,14 @@
+Arquivo de itens não encontrado. Criando um de teste (25 itens)...
+Mochila - Capacidade: 50 | Total de Itens: 25
+
+--- Parte A: Recursividade ---
+Valor máximo: 716
+Chamadas recursivas: 4856199
+Tempo: 0.523057 segundos
+
+--- Parte B: Programação Dinâmica ---
+Valor máximo: 716
+Estados calculados: 975
+Tempo: 0.000251 segundos
+
+Conclusão: PD foi 2084.32x mais rápida.

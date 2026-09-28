@@ -1,0 +1,37 @@
+arquivo_02.txt
+Linhas: 50000
+Palavras: 491661
+arquivo_05.txt
+Linhas: 50000
+Palavras: 491223
+arquivo_03.txt
+Linhas: 50000
+Palavras: 491828
+arquivo_08.txt
+Linhas: 50000
+Palavras: 491616
+arquivo_11.txt
+Linhas: 50000
+Palavras: 491573
+arquivo_06.txt
+Linhas: 50000
+Palavras: 491616
+arquivo_01.txt
+Linhas: 50000
+Palavras: 491682
+arquivo_12.txt
+Linhas: 50000
+Palavras: 491934
+arquivo_09.txt
+Linhas: 50000
+Palavras: 491744
+arquivo_04.txt
+Linhas: 50000
+Palavras: 491565
+arquivo_10.txt
+Linhas: 50000
+Palavras: 491288
+arquivo_07.txt
+Linhas: 50000
+Palavras: 492012
+Tempo total: 0.03 segundos

@@ -1,0 +1,8 @@
+--- Sequência Obrigatória ---
+10 → 20 → 40 → 50
+50 → 40 → 20 → 10
+
+--- Teste de Desempenho (100.000 elementos) ---
+Busca no Início (10): 0.000002 segundos
+Busca no Meio (50000): 0.001067 segundos
+Busca no Final (99990): 0.002127 segundos

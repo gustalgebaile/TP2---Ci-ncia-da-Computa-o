@@ -1,0 +1,9 @@
+Lendo o arquivo de números...
+Iniciando ordenação de 100000 números com QuickSort...
+
+--- Resultados ---
+Quantidade de comparações: 2045333
+Quantidade de chamadas recursivas: 133081
+Tempo de execução: 0.1716 segundos
+
+Lista ordenada salva em: outputs/numeros_ordenados_quicksort.txt
